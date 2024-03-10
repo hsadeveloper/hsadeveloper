@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hasanain Alsabonchi
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Spring Boot Framework
 - 💞️ I’m looking to collaborate on my personal project
 - 📫 How to reach me hsadeveloper@gmail.com
 
